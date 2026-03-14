@@ -2,4 +2,4 @@ Welcome to the novel-reading-bookmark-extension wiki!
 
 ## Documentation
 
-- [Privacy Policy](Privacy.md)
+- [Privacy Policy](Privacy)
