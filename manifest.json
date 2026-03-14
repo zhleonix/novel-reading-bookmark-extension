@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Novel Bookmark Upsert",
+  "version": "0.1",
+  "description": "Click the toolbar icon to add or replace a bookmark in the Bookmarks Bar with the current page.",
+  "permissions": ["bookmarks", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "action": {
+    "default_title": "Upsert bookmark in Bookmarks Bar",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png",
+      "128": "icons/icon-128.png"
+    }
+  }
+}

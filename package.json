@@ -1,0 +1,12 @@
+{
+  "name": "novel-bookmark-upsert",
+  "version": "0.1.0",
+  "description": "Convert extension SVG icons to PNGs and help with development scripts.",
+  "private": true,
+  "scripts": {
+    "convert-icons": "node scripts/convert-icons.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.0"
+  }
+}

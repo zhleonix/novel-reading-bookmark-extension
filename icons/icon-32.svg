@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="g32" x1="0" x2="1">
+      <stop offset="0" stop-color="#4f93ff"/>
+      <stop offset="1" stop-color="#4f5ff0"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="6" fill="#ffffff"/>
+  <g transform="translate(4,4)">
+    <rect width="24" height="24" rx="4" fill="url(#g32)"/>
+    <text x="16" y="16" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" font-size="14">B</text>
+  </g>
+</svg>
